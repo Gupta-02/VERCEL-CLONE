@@ -2,7 +2,7 @@
 
 A full-stack application that replicates core Vercel functionality, allowing users to deploy web applications with ease.
 
-<iframe src="https://www.loom.com/embed/fb5814b9251848378cec9f378bbde4c9" allowfullscreen width="100%" height="350px" frameborder="0"></iframe>
+[Watch the Demo video](https://www.loom.com/embed/fb5814b9251848378cec9f378bbde4c9)
 
 ## 📋 Overview
 
