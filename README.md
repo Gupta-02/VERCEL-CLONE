@@ -2,7 +2,7 @@
 
 A full-stack application that replicates core Vercel functionality, allowing users to deploy web applications with ease.
 
-[Watch the Demo video](https://www.loom.com/embed/fb5814b9251848378cec9f378bbde4c9)
+![Demo Video](https://github.com/Aashish17405/Vercel-Clone/blob/main/demo.gif)
 
 ## 📋 Overview
 
