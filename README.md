@@ -28,7 +28,7 @@ The project is divided into several key components:
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: React Vite, TypeScript, Vite, TailwindCSS
+- **Frontend**: React Vite, TypeScript, TailwindCSS
 - **Backend Services**: Node.js, Express.js
 - **Cloud Storage**: AWS S3
 - **Database & Caching**: Redis for deployment status tracking and queue management
