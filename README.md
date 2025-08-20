@@ -45,7 +45,7 @@ The project is divided into several key components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/vercel-clone.git
+   git clone https://github.com/Gupta-02/vercel-clone.git
    cd vercel-clone
    ```
 
