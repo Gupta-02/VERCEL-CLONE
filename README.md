@@ -2,7 +2,6 @@
 
 A full-stack application that replicates core Vercel functionality, allowing users to deploy web applications with ease.
 
-
 ## 📋 Overview
 
 This project is a clone of Vercel's deployment platform, providing a simplified but functional version of Vercel's core features. It allows users to upload projects, build them, and deploy them to the web with automatic CI/CD capabilities.
@@ -85,8 +84,6 @@ The project is divided into several key components:
    cd ../deployment
    tsc -b
    ```
-
-
 
 4. Start the services:
 
